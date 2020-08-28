@@ -6,9 +6,6 @@ screen.setup(820,520)
 screen.bgcolor('black')
 
 
-
-
-
 color('white')
 speed(0)
 penup()  #remove the drawing of the pen

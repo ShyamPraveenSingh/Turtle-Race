@@ -53,7 +53,6 @@ viv.goto(-160, 40)
 viv.pendown()
 
 
-
 #Adding 4th turtle
 art = Turtle()
 art.color('yellow')
